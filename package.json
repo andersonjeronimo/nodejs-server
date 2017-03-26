@@ -1,0 +1,30 @@
+{
+  "name": "nodejs-server",
+  "version": "1.0.0",
+  "description": "NodeJS Server",
+  "main": "node_app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andersonjeronimo/nodejs-server.git"
+  },
+  "keywords": [
+    "MongoDB",
+    "Express",
+    "NodeJS"
+  ],
+  "author": "anderson.luiz.sjc@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andersonjeronimo/nodejs-server/issues"
+  },
+  "homepage": "https://github.com/andersonjeronimo/nodejs-server#readme",
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "express": "^4.15.2",
+    "mongoose": "^4.9.1",
+    "validator": "^7.0.0"
+  }
+}
